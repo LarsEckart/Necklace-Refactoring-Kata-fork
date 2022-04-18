@@ -1,4 +1,0 @@
-[Plain] => box ring compartment 
-[Diamond] => safe 
-[Pearl] => box ring compartment 
-[Amber] => box ring compartment 

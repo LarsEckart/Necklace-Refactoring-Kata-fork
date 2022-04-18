@@ -1,0 +1,36 @@
+[Ring{stone=Plain}] => box ring compartment 
+[Pendant{stone=Plain}] => box top shelf 
+[Necklace{type=Beads, stone=Plain}] => tree 
+[Necklace{type=Chain, stone=Plain}] => tree 
+[Necklace{type=Pendant, stone=Plain}] =>  
+[Necklace{type=LongChain, stone=Plain}] =>  
+[Earring{type=Stud, stone=Plain}] => box top shelf 
+[Earring{type=Hoop, stone=Plain}] => tree 
+[Earring{type=Drop, stone=Plain}] => box main 
+[Ring{stone=Diamond}] => safe 
+[Pendant{stone=Diamond}] => safe 
+[Necklace{type=Beads, stone=Diamond}] => safe 
+[Necklace{type=Chain, stone=Diamond}] => safe 
+[Necklace{type=Pendant, stone=Diamond}] => safe 
+[Necklace{type=LongChain, stone=Diamond}] => safe 
+[Earring{type=Stud, stone=Diamond}] => safe 
+[Earring{type=Hoop, stone=Diamond}] => safe 
+[Earring{type=Drop, stone=Diamond}] => safe 
+[Ring{stone=Pearl}] => box ring compartment 
+[Pendant{stone=Pearl}] => box top shelf 
+[Necklace{type=Beads, stone=Pearl}] => tree 
+[Necklace{type=Chain, stone=Pearl}] => tree 
+[Necklace{type=Pendant, stone=Pearl}] =>  
+[Necklace{type=LongChain, stone=Pearl}] =>  
+[Earring{type=Stud, stone=Pearl}] => box top shelf 
+[Earring{type=Hoop, stone=Pearl}] => tree 
+[Earring{type=Drop, stone=Pearl}] => box top shelf 
+[Ring{stone=Amber}] => box ring compartment 
+[Pendant{stone=Amber}] => box top shelf 
+[Necklace{type=Beads, stone=Amber}] => tree 
+[Necklace{type=Chain, stone=Amber}] => tree 
+[Necklace{type=Pendant, stone=Amber}] =>  
+[Necklace{type=LongChain, stone=Amber}] =>  
+[Earring{type=Stud, stone=Amber}] => box top shelf 
+[Earring{type=Hoop, stone=Amber}] => tree 
+[Earring{type=Drop, stone=Amber}] => box top shelf 
