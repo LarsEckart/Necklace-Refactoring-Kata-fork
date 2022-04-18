@@ -1,0 +1,4 @@
+[Plain] => box top shelf 
+[Diamond] => safe 
+[Pearl] => box top shelf 
+[Amber] => box top shelf 

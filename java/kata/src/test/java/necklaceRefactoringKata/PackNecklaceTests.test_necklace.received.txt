@@ -1,0 +1,16 @@
+[Plain, Beads] => tree 
+[Plain, Chain] => tree 
+[Plain, Pendant] => box top shelf 
+[Plain, LongChain] =>  
+[Diamond, Beads] => safe 
+[Diamond, Chain] => safe 
+[Diamond, Pendant] => safe 
+[Diamond, LongChain] => safe 
+[Pearl, Beads] => tree 
+[Pearl, Chain] => tree 
+[Pearl, Pendant] => box top shelf 
+[Pearl, LongChain] =>  
+[Amber, Beads] => tree 
+[Amber, Chain] => tree 
+[Amber, Pendant] => box top shelf 
+[Amber, LongChain] =>  
